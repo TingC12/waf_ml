@@ -1,0 +1,27 @@
+services:
+  crs-nginx:
+    container_name: waf
+    restart: always
+    image: owasp/modsecurity-crs:nginx
+    ports:
+      - "80:8080"
+    environment:
+      SERVERNAME: localhost
+      PARANOIA: 2
+      BLOCKING_PARANOIA: 2
+      ANOMALY_INBOUND: 10
+      ANOMALY_OUTBOUND: 4
+      REPORTING_LEVEL: 2
+      BACKEND: http://dummy
+
+      MODSEC_AUDIT_ENGINE: On
+      MODSEC_AUDIT_LOG: /tmp/modsec_audit.log
+      MODSEC_AUDIT_LOG_TYPE: Serial
+      MODSEC_AUDIT_LOG_FORMAT: JSON
+
+    volumes:
+      - ./logs:/tmp
+
+  dummy:
+    image: traefik/whoami
+    container_name: dummy

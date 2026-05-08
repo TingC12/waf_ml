@@ -1,0 +1,2 @@
+﻿experiment,split,rule_count,accuracy,precision,recall,f1,roc_auc,tn,fp,fn,tp,fpr,tpr,bypass_rate,specificity,confusion_matrix
+baseline_all_rules,valid,37,0.9641453831041258,1.0,0.933996383363472,0.9658719027582983,0.9720818993175057,930,0,73,1033,0.0,0.9339963833626275,0.06600361663646835,0.9999999999989247,"[[930, 0], [73, 1033]]"

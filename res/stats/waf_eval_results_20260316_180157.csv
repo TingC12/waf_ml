@@ -1,0 +1,2 @@
+﻿index,payload,rule_id,rule_count,detected,outcome
+1,<svg/onload=alert(%RND%)//,"941100,941120,941160,949110",4,1,TP

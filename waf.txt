@@ -1,0 +1,6 @@
+docker exec -it waf sh 
+find / -name "REQUEST-941-APPLICATION-ATTACK-XSS.conf" 2> /dev/null
+
+docker cp waf:/opt/owasp-crs/rules/REQUEST-941-APPLICATION-ATTACK-XSS.conf .
+
+docker cp REQUEST-941-APPLICATION-ATTACK-XSS-ML.conf waf:/opt/owasp-crs/rules/REQUEST-941-APPLICATION-ATTACK-XSS.conf

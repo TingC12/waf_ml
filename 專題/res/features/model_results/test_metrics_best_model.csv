@@ -1,0 +1,10 @@
+﻿model,split,accuracy,precision,recall,f1,tn,fp,fn,tp,confusion_matrix,classification_report
+LinearSVC (l2),test,0.9646365422396856,0.9980732177263969,0.9367088607594937,0.9664179104477612,928,2,70,1036,"[[928, 2], [70, 1036]]","              precision    recall  f1-score   support
+
+           0     0.9299    0.9978    0.9627       930
+           1     0.9981    0.9367    0.9664      1106
+
+    accuracy                         0.9646      2036
+   macro avg     0.9640    0.9673    0.9645      2036
+weighted avg     0.9669    0.9646    0.9647      2036
+"

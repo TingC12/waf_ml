@@ -1,0 +1,19 @@
+=== WAF Evaluation Summary ===
+Total samples: 71
+Blocked: 63
+Bypassed: 8
+Block rate: 0.8873
+Bypass rate: 0.1127
+
+=== Classification Metrics (requires labels) ===
+Labeled samples: 71
+TP: 31
+TN: 7
+FP: 32
+FN: 1
+Accuracy: 0.5352
+Precision: 0.4921
+Recall / TPR: 0.9688
+F1-score: 0.6526
+FPR: 0.8205
+Specificity / TNR: 0.1795

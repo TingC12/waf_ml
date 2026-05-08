@@ -1,0 +1,72 @@
+﻿index,payload,label,http_code,rule_id,rule_count,detected,outcome
+1,"<li><a href=""/wiki/File:Socrates.png"" class=""image""><img alt=""Socrates.png"" src=""//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Socrates.png/18px-Socrates.png"" decoding=""async"" width=""18"" height=""28"" class=""noviewer"" srcset=""//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Socrates.png/27px-Socrates.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Socrates.png/36px-Socrates.png 2x"" data-file-width=""326"" data-file-height=""500"" /> </a> <a href=""/wiki/Portal:Philosophy"" title=""Portal:Philosophy"">Philosophy&#32;portal </a> </li> </ul>",0,200,941160,1,0,TN
+2,"<tt onmouseover=""alert(1)"">test</tt>",1,403,"941100,941120,941160,949110",4,1,TP
+3,"</span> <span class=""reference-text"">Steering for the 1995 ""<a href=""/wiki/History_of_autonomous_cars#1990s"" class=""mw-redirect"" title=""History of autonomous cars"">No Hands Across America </a>"" required ""only a few human assists"".",0,200,,0,0,TN
+4,"</span> <span class=""reference-text""><cite class=""citation web""><a rel=""nofollow"" class=""external text"" href=""https://www.mileseducation.com/finance/artificial_intelligence"">""Miles Education | Future Of Finance | Blockchain Fundamentals for F&amp;A Professionals Certificate"" </a>. <i>www.mileseducation.com </i><span class=""reference-accessdate"">. Retrieved <span class=""nowrap"">26 September",0,200,,0,0,TN
+5,"</span>. <a href=""/wiki/Digital_object_identifier"" title=""Digital object identifier"">doi </a>:<a rel=""nofollow"" class=""external text"" href=""https://doi.org/10.1016%2FS0921-8890%2805%2980025-9"">10.1016/S0921-8890(05)80025-9 </a>. <a rel=""nofollow"" class=""external text"" href=""https://web.archive.org/web/20070809020912/http://people.csail.mit.edu/brooks/papers/elephants.pdf"">Archived </a> <span class=""cs1-format"">(PDF)",0,200,932130,1,0,TN
+6,"<li id=""cite_note-118""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-118"">^ </a> </b>",0,200,,0,0,TN
+7,"<li><a href=""/wiki/Contextualism"" title=""Contextualism"">Contextualism </a> </li>",0,200,,0,0,TN
+8,"<li id=""cite_note-Representing_causation-95""><span class=""mw-cite-backlink"">^ <a href=""#cite_ref-Representing_causation_95-0""><sup><i><b>a </b> </i> </sup> </a> <a href=""#cite_ref-Representing_causation_95-1""><sup><i><b>b </b> </i> </sup> </a>",0,200,,0,0,TN
+9,"<tr><td class=""plainlist"" style=""padding:0 0.1em 0.4em"">",0,403,"941100,941160,949110",3,1,FP
+10,</span>,0,200,,0,0,TN
+11,"<li><a href=""/wiki/Mind%E2%80%93body_problem"" title=""Mind–body problem"">Mind–body problem </a>",0,200,,0,0,TN
+12,<a onblur=alert(1) tabindex=1 id=x></a><input autofocus>,1,403,"941100,941120,941160,949110",4,1,TP
+13,"<col draggable=""true"" ondragenter=""alert(1)"">test</col>",1,403,"941100,941120,941160,949110",4,1,TP
+14,<caption onpointerdown=alert(1)>XSS</caption>,1,403,"941100,941120,949110",3,1,TP
+15,</span>,0,200,,0,0,TN
+16,"</span><link rel=""mw-deduplicated-inline-style"" href=""mw-data:TemplateStyles:r935243608""/> </li>",0,403,"941100,941160,941270,949110",4,1,FP
+17,<caption id=x tabindex=1 ondeactivate=alert(1)></caption><input id=y autofocus>,1,403,"941120,941160,949110",3,1,TP
+18,"<style onmouseleave=""alert(1)"">test</style>",1,403,"941100,941120,941140,941160,949110",5,1,TP
+19,<svg><meta onload=alert(1)></meta>,1,403,"921130,941100,941120,941140,941160,949110",6,1,TP
+20,"<li><a href=""/wiki/Programming_language"" title=""Programming language"">Programming language </a> </li>",0,200,,0,0,TN
+21,<figcaption onpointerleave=alert(1)>XSS</figcaption>,1,403,"941100,941120,949110",3,1,TP
+22,"</span> <span class=""reference-text""><cite class=""citation news""><a rel=""nofollow"" class=""external text"" href=""https://www.economist.com/news/special-report/21700756-artificial-intelligence-boom-based-old-idea-modern-twist-not"">""From not working to neural networking"" </a>. <i>The Economist </i>. 2016<span class=""reference-accessdate"">. Retrieved <span class=""nowrap"">26 April",0,200,,0,0,TN
+23,</div>,0,200,,0,0,TN
+24,<datalist id=x tabindex=1 onfocusin=alert(1)></datalist>,1,403,"941100,941120,941160,949110",4,1,TP
+25,<input type=image src=1 onerror=alert(1)>,1,403,"941100,941120,941160,949110",4,1,TP
+26,"<strong ondblclick=""alert(1)"">test</strong>",1,403,"941100,941120,941160,949110",4,1,TP
+27,"<li><a href=""/wiki/Computer_data_storage"" title=""Computer data storage"">Information storage systems </a> </li>",0,200,,0,0,TN
+28,"<div draggable=""true"" contenteditable>drag me</div><input ondragover=alert(1) contenteditable>drop here</input>",1,403,"941100,941120,941160,949110",4,1,TP
+29,"</span><link rel=""mw-deduplicated-inline-style"" href=""mw-data:TemplateStyles:r935243608""/> </li>",0,403,"941100,941160,941270,949110",4,1,FP
+30,"</span> <span class=""reference-text""><cite class=""citation journal""><a href=""/wiki/Woody_Evans"" title=""Woody Evans"">Evans, Woody </a> (2015). ""Posthuman Rights: Dimensions of Transhuman Worlds"". <i>Teknokultura </i>. <b>12 </b> (2). <a href=""/wiki/Digital_object_identifier"" title=""Digital object identifier"">doi </a>:<a rel=""nofollow"" class=""external text"" href=""https://doi.org/10.5209%2Frev_TK.2015.v12.n2.49072"">10.5209/rev_TK.2015.v12.n2.49072 </a>. </cite><span title=""ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Teknokultura&amp;rft.atitle=Posthuman+Rights%3A+Dimensions+of+Transhuman+Worlds&amp;rft.volume=12&amp;rft.issue=2&amp;rft.date=2015&amp;rft_id=info%3Adoi%2F10.5209%2Frev_TK.2015.v12.n2.49072&amp;rft.aulast=Evans&amp;rft.aufirst=Woody&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArtificial+intelligence"" class=""Z3988"">",0,200,932130,1,0,TN
+31,"<spacer onkeypress=""alert(1)"" contenteditable>test</spacer>",1,403,"941100,941120,941160,949110",4,1,TP
+32,"<li><cite id=""CITEREFOudeyer2010"" class=""citation journal"">Oudeyer, P-Y. (2010). <a rel=""nofollow"" class=""external text"" href=""http://www.pyoudeyer.com/IEEETAMDOudeyer10.pdf"">""On the impact of robotics in behavioral and cognitive sciences: from insect navigation to human cognitive development"" </a> <span class=""cs1-format"">(PDF)",0,200,932130,1,0,TN
+33,"<style>@keyframes slidein {}</style><center style=""animation-duration:1s;animation-name:slidein;animation-iteration-count:2"" onanimationiteration=""alert(1)""></center>",1,403,"941100,941120,941140,941160,941190,949110",6,1,TP
+34,"<pre draggable=""true"" ondragend=""alert(1)"">test</pre>",1,403,"941100,941120,941160,949110",4,1,TP
+35,</span>,0,200,,0,0,TN
+36,"<li><a href=""#CITEREFNilsson1998"">Nilsson 1998 </a>, chpt. 8 </li> </ul>",0,200,,0,0,TN
+37,<colgroup onblur=alert(1) tabindex=1 id=x></colgroup><input autofocus>,1,403,"941100,941120,941160,949110",4,1,TP
+38,"<style>@keyframes x{}</style><main style=""animation-name:x"" onanimationstart=""alert(1)""></main>",1,403,"941100,941120,941140,941160,941190,949110",6,1,TP
+39,"<article draggable=""true"" ondrag=""alert(1)"">test</article>",1,403,"941100,941120,949110",3,1,TP
+40,"<li><a href=""/wiki/Computational_physics"" title=""Computational physics"">Computational physics </a> </li>",0,200,,0,0,TN
+41,"</span>. <i>Behavioral and Brain Sciences </i>. <b>3 </b> (3): 417–457. <a href=""/wiki/Digital_object_identifier"" title=""Digital object identifier"">doi </a>:<a rel=""nofollow"" class=""external text"" href=""https://doi.org/10.1017%2FS0140525X00005756"">10.1017/S0140525X00005756 </a>. </cite><span title=""ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Behavioral+and+Brain+Sciences&amp;rft.atitle=Minds%2C+Brains+and+Programs&amp;rft.volume=3&amp;rft.issue=3&amp;rft.pages=417-457&amp;rft.date=1980&amp;rft_id=info%3Adoi%2F10.1017%2FS0140525X00005756&amp;rft.aulast=Searle&amp;rft.aufirst=John&amp;rft_id=http%3A%2F%2Fcogprints.org%2F7150%2F1%2F10.1.1.83.5248.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArtificial+intelligence"" class=""Z3988"">",0,200,932130,1,0,TN
+42,"<rtc draggable=""true"" ondragleave=""alert(1)"">test</rtc>",1,403,"941100,941120,941160,949110",4,1,TP
+43,"</span> <span class=""reference-text""><cite class=""citation journal"">Prakken, Henry (31 August 2017). ""On the problem of making autonomous vehicles conform to traffic law"". <i>Artificial Intelligence and Law </i>. <b>25 </b> (3): 341–363. <a href=""/wiki/Digital_object_identifier"" title=""Digital object identifier"">doi </a>:<a rel=""nofollow"" class=""external text"" href=""https://doi.org/10.1007%2Fs10506-017-9210-0"">10.1007/s10506-017-9210-0 </a>. </cite><span title=""ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Artificial+Intelligence+and+Law&amp;rft.atitle=On+the+problem+of+making+autonomous+vehicles+conform+to+traffic+law&amp;rft.volume=25&amp;rft.issue=3&amp;rft.pages=341-363&amp;rft.date=2017-08-31&amp;rft_id=info%3Adoi%2F10.1007%2Fs10506-017-9210-0&amp;rft.aulast=Prakken&amp;rft.aufirst=Henry&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArtificial+intelligence"" class=""Z3988"">",0,200,932130,1,0,TN
+44,"</span><span class=""mw-editsection""><span class=""mw-editsection-bracket"">[",0,200,,0,0,TN
+45,"<sup id=""cite_ref-Biological_intelligence_vs._intelligence_in_general_16-1"" class=""reference""><a href=""#cite_note-Biological_intelligence_vs._intelligence_in_general-16"">&#91;16&#93; </a> </sup>",0,200,,0,0,TN
+46,"<div class=""thumbcaption"">",0,200,,0,0,TN
+47,"<li id=""cite_note-recurse-409""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-recurse_409-0"">^ </a> </b>",0,200,,0,0,TN
+48,"<div draggable=""true"" contenteditable>drag me</div><sup ondrop=alert(1) contenteditable>drop here</sup>",1,403,"941100,941120,941160,949110",4,1,TP
+49,</div>,0,200,,0,0,TN
+50,"<li><a href=""/wiki/Glossary_of_calculus"" title=""Glossary of calculus"">Calculus </a> </li>",0,200,,0,0,TN
+51,"<frame oncut=""alert(1)"" contenteditable>test</frame>",1,403,"941100,941120,941160,949110",4,1,TP
+52,"<ul class=""simple"">",0,200,,0,0,TN
+53,"<frameset onmouseover=""alert(1)"">test</frameset>",1,403,"941100,941120,941160,949110",4,1,TP
+54,"<style>@keyframes x{}</style><nobr style=""animation-name:x"" onanimationstart=""alert(1)""></nobr>",1,403,"941100,941120,941140,941160,941190,949110",6,1,TP
+55,"<h4><span class=""mw-headline"" id=""Technological_singularity"">Technological singularity",0,200,,0,0,TN
+56,</span>(1700) </li>,0,200,932130,1,0,TN
+57,<iframe onload=alert(1)></iframe>,1,403,"941100,941120,941160,949110",4,1,TP
+58,"<strong draggable=""true"" ondragstart=""alert(1)"">test</strong>",1,403,"941100,941120,941160,949110",4,1,TP
+59,</span> </h3>,0,200,,0,0,TN
+60,"<li id=""cite_note-304""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-304"">^ </a> </b>",0,200,,0,0,TN
+61,"<!DOCTYPE html><html class=""no-js"" lang=""en"" >",0,403,"921130,941100,949110",3,1,FP
+62,"<style>@keyframes x{}</style><h1 style=""animation-name:x"" onanimationstart=""alert(1)""></h1>",1,403,"941100,941120,941140,941160,941190,949110",6,1,TP
+63,<article onpointerleave=alert(1)>XSS</article>,1,403,"941100,941120,949110",3,1,TP
+64,"<nextid onmousemove=""alert(1)"">test</nextid>",1,403,"941100,941120,941160,949110",4,1,TP
+65,javascript:document.location=,1,403,"941170,941210,949110",3,1,TP
+66,"<style>@keyframes x{}</style><area style=""animation-name:x"" onanimationend=""alert(1)""></area>",1,403,"941100,941120,941140,941160,941190,949110",6,1,TP
+67,<blockquote onpointermove=alert(1)>XSS</blockquote>,1,403,"941100,941120,949110",3,1,TP
+68,<time onfocusout=alert(1) tabindex=1 id=x></time><input autofocus>,1,403,"941100,941120,941160,949110",4,1,TP
+69,"<div style=""padding:0em 0.25em"">",0,403,"941100,941160,949110",3,1,FP
+70,"</span><span class=""mw-editsection""><span class=""mw-editsection-bracket"">[",0,200,,0,0,TN
+71,</span>,0,200,,0,0,TN
