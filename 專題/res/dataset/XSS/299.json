@@ -1,9 +1,0 @@
-{
-  "payload": [
-    {
-      "BODY": "\"><svg onmouseover=alert(1)>.svg",
-      "ENCODE": "",
-      "BLOCKED": true
-    }
-  ]
-}
